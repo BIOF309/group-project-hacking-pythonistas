@@ -1,12 +1,11 @@
-final-project-template
+Hacking Pythonistas
 ==============================
 
-A template I recommend for final projects. Feel free to modify as needed!
-Based on Cookiecutter Data Science:
+BIOF309 
 
-repo: https://github.com/drivendata/cookiecutter-data-science
+In the process of learning we are designing this repo to answer basic questions about a large CDC dataset: Death in the United States
 
-site: http://drivendata.github.io/cookiecutter-data-science/
+Stay tuned!
 
 
 
