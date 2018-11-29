@@ -5,7 +5,13 @@ BIOF309
 
 In the process of learning we are designing this repo to answer basic questions about a large CDC dataset: Death in the United States
 
-Stay tuned!
+Project Pipeline:
+
+1. Import packages
+2. Upload dataset CDC: Death in the United States years 2005 + 2015
+3. Organize and clean-up data
+4. Answer questions about this dataset
+5. Data visualization
 
 
 
