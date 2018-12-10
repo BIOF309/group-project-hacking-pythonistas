@@ -12,6 +12,7 @@ Project Pipeline:
 3. Organize and clean-up data
 4. Answer questions about this dataset
 5. Data visualization
+6. Future directions: We analyzed some of the data in comparison to populations/year in each state. Continue to utilize this comparison. Look at a more complex dataset such as data by county.
 
 
 
